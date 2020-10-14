@@ -1,1 +1,1 @@
-# stanford_machine_learning
+# Stanford Machine_learning
